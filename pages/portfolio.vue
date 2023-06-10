@@ -5,6 +5,10 @@
             <div class="site-title">My Portfolio</div>
             <div class="wrapper">
                 <div class="item">
+                    <img src="~/assets/img/png/ux-ui.png" alt="">
+                    <a target="_blank" href="https://ux-ui-akramjonov.netlify.app/" class="more">View more</a>
+                </div>
+                <div class="item">
                     <img src="~/assets/img/png/fargonaliklar.png" alt="">
                     <a target="_blank" href="https://fargonaliklar.netlify.app/" class="more">View more</a>
                 </div>
