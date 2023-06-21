@@ -10,15 +10,18 @@
                         <p class="ocupation">Web Developer</p>
                     </div>
                     <div class="me-about">
-                        <p>Hi, my name is Adriano Smith and I began using WordPress when it first began. I’ve spent most of
-                            my
-                            waking hours for the last ten years designing, programming and operating WordPress sites.
+                        <p>Hi, my name is Akramjonov Azizbek and I began using Vue when it first began. I’ve spent most of
+                            my waking hours for the last one years Frontend.
+
                             <br>
                             <br>
-                            One of my specialties is taking an idea from scratch and creating a full-fledged platform. I go
-                            beyond to produce sites with a unique, outstanding, contemporary look-and-feel. With extensive
-                            knowledge of web mechanics, I’m able to optimize complex integrations to require little-to-no
-                            maintenance while running on their own for years.
+
+                            One of my specialties is taking an idea from scratch and building a complete platform.
+                            I produce unique, stunning, modern looking sites.
+                            With extensive knowledge of frontend, I have been able to build sites independently for years.
+                            I love bringing ideas to life through created visuals and meaningful animations, playing with colors, composition, typography and details.
+                            I will gain experience in this field from 2022
+
                         </p>
                     </div>
                     <div class="born">

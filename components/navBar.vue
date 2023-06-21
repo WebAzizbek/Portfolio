@@ -28,7 +28,7 @@
             
         </form> -->
 
-        <p @mousemove="store.dot = true" @mouseleave="store.dot = false" class="create">© 2023 Tokyo Created by Marketify</p>
+        <p @mousemove="store.dot = true" @mouseleave="store.dot = false" class="create">© Portfolio Created by Azizbek</p>
     </nav>
 </template>
 

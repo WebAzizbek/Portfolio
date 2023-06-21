@@ -20,7 +20,7 @@
                     <div class="box">
                         <h1 @mousemove="animateUp" id="fullName" ref="fname" class="name" data-text="Sherali Bobakalonov">Akramjonov Azizbek</h1>
                     </div>
-                    <p class="text">I am Developer at heart and create features that are best suited for the job at hand.</p>
+                    <p class="text">I am Frontend Developer and create features that are best suited for the job at hand.</p>
                     <ul class="list">
                         <li class="item">
                             <NuxtLink @mousemove="store.dot = true" @mouseleave="store.dot = false" to="https://www.instagram.com/_a.akramjonov_/" class="link">
