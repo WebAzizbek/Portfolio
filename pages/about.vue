@@ -19,7 +19,8 @@
                             One of my specialties is taking an idea from scratch and building a complete platform.
                             I produce unique, stunning, modern looking sites.
                             With extensive knowledge of frontend, I have been able to build sites independently for years.
-                            I love bringing ideas to life through created visuals and meaningful animations, playing with colors, composition, typography and details.
+                            I love bringing ideas to life through created visuals and meaningful animations, playing with
+                            colors, composition, typography and details.
                             I will gain experience in this field from 2022
 
                         </p>
@@ -44,7 +45,7 @@
                             </div>
                             <div class="item">
                                 <span>Phone :</span>   
-                                +998 91 131 01 05
+                                +998 90 363 33 65
                             </div>
                         </div>
                         <div class="wrapper">
